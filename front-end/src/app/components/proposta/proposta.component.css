@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
+
+.btn-confirmar {
+    background-color: #3fbd65;
+    color: #ffff
+}
+
+mat-form-field {
+    border-color: black;
+}
