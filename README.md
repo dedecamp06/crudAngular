@@ -16,5 +16,7 @@ Principais Tecnologias utilizadas:
 - Material UI
 - PrimeNG
 - Angular Core
+- HTML
+- CSS
 
 
